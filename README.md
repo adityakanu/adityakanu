@@ -2,7 +2,7 @@
 - 👀 I’m interested in Tech, Code, Anime, Startup, Crypto, Finance,.....
 - 🌱 I’m currently learning Java, C++, JavaScript, Python, HTML, CSS... hella confused
 - 💞️ I’m looking to collaborate on opensource projects which require the above skills
-- 📫 How to reach me : Available on insta?twitter by @adityakanu_ and on LinkedIn/Telegram @adityakanu
+- 📫 How to reach me : Available on insta/twitter by @adityakanu_ and on LinkedIn/Telegram @adityakanu
 - Individual Links
 - - https://twitter.com/AdityaKanu_
 - - https://instagram.com/AdityaKanu_
