@@ -41,7 +41,7 @@ I am Learning Competitive Coding <img src="https://media.giphy.com/media/WUlplcM
  
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+<!-- ### :hammer_and_wrench: Languages and Tools :
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"  title="CPP" alt="CPP" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -50,15 +50,15 @@ I am Learning Competitive Coding <img src="https://media.giphy.com/media/WUlplcM
 <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" title="PREMIERE" alt="PRM" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="CANVA" alt="CANVA" width="40" height="40"/>&nbsp;
  
- ---
+ --- -->
 ### :computer: My CP Solutions :
 
   <div id="badges">
   <a href="https://github.com/adityakanu/Codeforces">
     <img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces Badge"/>
   </a>
-  <a href="https://github.com/adityakanu/CodeChef">
-    <img src="https://img.shields.io/badge/CodeChef-red?style=for-the-badge&logo=Codechef&logoColor=white" alt="CodeChef Badge"/>
+  <a href="https://github.com/adityakanu/cses_solutions">
+    <img src="https://img.shields.io/badge/CSES-red?style=for-the-badge&logo=CSES&logoColor=white" alt="CSES Badge"/>
   </a>
   <a href="https://github.com/adityakanu/LeetCode">
     <img src="https://img.shields.io/badge/LeetCode-purple?style=for-the-badge&logo=Leetcode&logoColor=white" alt="LeetCode Badge"/>
