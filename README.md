@@ -30,7 +30,7 @@ https://www.sitepoint.com/github-profile-readme/
 
 ### :man_technologist: About Me :
 
-I am Learning Competitive Coding <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  and Development.
+Not just another Open-Source fan <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - :telescope: I’m studying B.Tech at NIT Agartala.
 
@@ -52,7 +52,7 @@ I am Learning Competitive Coding <img src="https://media.giphy.com/media/WUlplcM
 <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="CANVA" alt="CANVA" width="40" height="40"/>&nbsp;
  
  --- -->
-### :computer: My CP Solutions :
+<!-- ### :computer: My CP Solutions :
 
   <div id="badges">
   <a href="https://github.com/adityakanu/Codeforces">
@@ -64,15 +64,15 @@ I am Learning Competitive Coding <img src="https://media.giphy.com/media/WUlplcM
   <a href="https://github.com/adityakanu/LeetCode">
     <img src="https://img.shields.io/badge/LeetCode-purple?style=for-the-badge&logo=Leetcode&logoColor=white" alt="LeetCode Badge"/>
   </a>
-</div>
+</div> -->
 
  ---
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adityakanu&theme=dark&background=000000)](https://git.io/streak-stats)<div></div>
-<!--
-use this instead of above ones when you are good enough
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adityakanu&theme=dark&background=000000)](https://git.io/streak-stats)<div></div> -->
+<!-- 
+use this instead of above ones when you are good enough -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityakanu&hide=issues&count_private=true&show_icons=true&theme=radical)<div></div>
--->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityakanu&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
