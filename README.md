@@ -30,28 +30,33 @@ https://www.sitepoint.com/github-profile-readme/
 
 ### :man_technologist: About Me :
 
-Not just another Open-Source fan <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+Not just another Open-Sourcerer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- :telescope: I’m studying B.Tech at NIT Agartala.
+- :telescope: I’m studying Electronics and Instrumentation at NIT Agartala.
 
 - :seedling: Exploring different fields of Development and Design.
 
-- :zap: Want to contribute back to the community via Open Source Contributions.
+- :zap: I want to contribute to the community via Open Source.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityakanu)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityakanu)
  
 ---
 
-<!-- ### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools :
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"  title="CPP" alt="CPP" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" title="AFEFF" alt="AFEF" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" title="PREMIERE" alt="PRM" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="CANVA" alt="CANVA" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="PYTHON" alt="PY" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/thealgorithms/thealgorithms-original-wordmark.svg"  title="ALGORITHM" alt="ALGO" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="FIGMA" alt="FIG" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"  title="TAILWIND" alt="TWS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"  title="JAVASCRIPT" alt="JS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"  title="REACT" alt="REACT" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg"  title="FIREBASE" alt="FIREBASE" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="ARDUINO" alt="ARD" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  title="LINUX" alt="LINUX" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/iicons/lua/lua-original-wordmark.svg"  title="LUA" alt="LUA" width="40" height="40"/>&nbsp;
  
- --- -->
+ --- 
 <!-- ### :computer: My CP Solutions :
 
   <div id="badges">
@@ -66,12 +71,11 @@ Not just another Open-Source fan <img src="https://media.giphy.com/media/WUlplcM
   </a>
 </div> -->
 
- ---
 ### :fire: My Stats :
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adityakanu&theme=dark&background=000000)](https://git.io/streak-stats)<div></div> -->
 <!-- 
 use this instead of above ones when you are good enough -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityakanu&hide=issues&count_private=true&show_icons=true&theme=radical)<div></div>
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityakanu&hide=issues&count_private=true&show_icons=true&theme=radical)<div></div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityakanu&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
