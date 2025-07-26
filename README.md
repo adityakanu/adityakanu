@@ -5,7 +5,7 @@
 **B.Tech EIE @ NIT Agartala** • **Software Developer Intern @ Zscaler**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityakanu)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/adityakanu_)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/adityakanu_x)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:aditya.kanu.tnp@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=adityakanu&color=2F81F7&style=flat)
 
