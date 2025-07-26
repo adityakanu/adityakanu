@@ -1,83 +1,83 @@
-<!-- 
-Guide for most of what is done here
-https://www.sitepoint.com/github-profile-readme/
--->
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Aditya+Kanu+%F0%9F%91%8B;Software+Developer+%7C+Problem+Solver;Building+scalable+systems+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+**B.Tech EIE @ NIT Agartala** • **Software Developer Intern @ Zscaler**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityakanu)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/adityakanu_)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:aditya.kanu.tnp@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=adityakanu&color=2F81F7&style=flat)
+
 </div>
 
-  <div id="badges" align="center">
-  <a href="https://linkedin.com/in/adityakanu">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://instagram.com/adityakanu_">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://twitter.com/adityakanu_">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-<div align="center"><img src="https://komarev.com/ghpvc/?username=adityakanu&style=flat-square&color=blue" alt=""/>
-  <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-<!--   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/> -->
-  <img src="https://media2.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="300"/>
-  </div>
-  
-  ---
-
-### :man_technologist: About Me :
-
-Not just another Open-Sourcerer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-
-- :telescope: I’m studying Electronics and Instrumentation at NIT Agartala.
-
-- :seedling: Exploring different fields of Development and Design.
-
-- :zap: I want to contribute to the community via Open Source.
-
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityakanu)
- 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 💭 About Me
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"  title="CPP" alt="CPP" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="PYTHON" alt="PY" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/thealgorithms/thealgorithms-original-wordmark.svg"  title="ALGORITHM" alt="ALGO" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="FIGMA" alt="FIG" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"  title="TAILWIND" alt="TWS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"  title="JAVASCRIPT" alt="JS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"  title="REACT" alt="REACT" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg"  title="FIREBASE" alt="FIREBASE" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="ARDUINO" alt="ARD" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  title="LINUX" alt="LINUX" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/iicons/lua/lua-original-wordmark.svg"  title="LUA" alt="LUA" width="40" height="40"/>&nbsp;
- 
- --- 
-<!-- ### :computer: My CP Solutions :
+I'm energised by solving real-world problems at the crossroads of hardware and software. Building performant, scalable systems—and then refining them until they're elegant and efficient—keeps me curious and motivated. Open-source collaboration and the thrill of seeing ideas become products drive my continuous learning journey.
 
-  <div id="badges">
-  <a href="https://github.com/adityakanu/Codeforces">
-    <img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces Badge"/>
-  </a>
-  <a href="https://github.com/adityakanu/cses_solutions">
-    <img src="https://img.shields.io/badge/CSES-red?style=for-the-badge&logo=CSES&logoColor=white" alt="CSES Badge"/>
-  </a>
-  <a href="https://github.com/adityakanu/LeetCode">
-    <img src="https://img.shields.io/badge/LeetCode-purple?style=for-the-badge&logo=Leetcode&logoColor=white" alt="LeetCode Badge"/>
-  </a>
-</div> -->
+### 🛠️ Tech Stack
 
-### :fire: My Stats :
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adityakanu&theme=dark&background=000000)](https://git.io/streak-stats)<div></div> -->
-<!-- 
-use this instead of above ones when you are good enough -->
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityakanu&hide=issues&count_private=true&show_icons=true&theme=radical)<div></div>
+<div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityakanu&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![My Skills](https://skillicons.dev/icons?i=cpp,go,js,ts,python,react,nodejs,express,mongodb,postgres,azure,docker,git,linux,grafana,postman&theme=light)](https://skillicons.dev)
+
+</div>
+
+### 💼 Recent Work
+
+- **Zscaler**: Optimized critical Kusto queries on Azure, reducing execution time by **80%**
+- **Qrit**: Implemented authentication flow using Google OAuth and enhanced security with Gorilla/session library
+- Built full-stack applications with modern tech stacks and deployed on cloud platforms
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**🎨 [Memphi UI](https://github.com/adityakanu/memphi-ui)**
+React/Tailwind component library with shadcn aesthetics
+
+</td>
+<td width="50%">
+
+**🎵 [Ambinest](https://ambinest.vercel.app)**
+Minimalist ambient sound web app ranked on Product Hunt
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🎓 [NITA Placement Connect](https://github.com/adityakanu/nitta-placement)**
+Campus placement portal with role-based access control
+
+</td>
+<td width="50%">
+
+**🏥 [AroSneha](https://github.com/adityakanu/arosneha)**
+AI-powered health platform with medical report parsing
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 📊 GitHub Analytics
+
+<p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityakanu&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakanu&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117"/>
+</p>
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adityakanu&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=f85149&point=7c3aed)](https://github.com/adityakanu)
+
+</div>
 
 
 
